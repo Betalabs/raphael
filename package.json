@@ -33,10 +33,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/DmitryBaranovskiy/raphael.git"
+    "url": "https://github.com/Betalabs/raphael.git"
   },
   "bugs": {
-    "url": "https://github.com/DmitryBaranovskiy/raphael/issues"
+    "url": "https://github.com/Betalabs/raphael/issues"
   },
   "keywords": [
     "svg",
